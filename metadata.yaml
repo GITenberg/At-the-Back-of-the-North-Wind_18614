@@ -1,0 +1,45 @@
+_repo: At-the-Back-of-the-North-Wind_18614
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kirk, Maria Louise
+    aliases:
+    - Kirk, Maria L.
+    - Kirk, M. L. (Maria Louise)
+    birthdate: 1860
+    gutenberg_agent_id: '9513'
+    url: http://www.gutenberg.org/2009/agents/9513
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+  - agent_name: Lewis, Elizabeth
+    gutenberg_agent_id: '8149'
+    url: http://www.gutenberg.org/2009/agents/8149
+description: Diamond is the motherless son of a poor coachman. He is awakened one
+  night by the rushing of the North Wind. A voie calls to him from outside and the
+  wind is revealed as a beautiful woman, who takes Diamond in her arms and introduces
+  him to many adventures. She carries him to the land "at the back of the North Wind"
+  which, far from being a frozen, polar region, is one of beautiful pastures, streams
+  and happiness.
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2006-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18614'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+title: At the Back of the North Wind
+url: http://www.gutenberg.org/ebooks/18614
